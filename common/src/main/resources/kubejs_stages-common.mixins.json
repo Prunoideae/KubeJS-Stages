@@ -1,0 +1,15 @@
+{
+    "required": true,
+    "minVersion": "0.8",
+    "package": "moe.wolfgirl.kubejs_stages.mixin",
+    "compatibilityLevel": "JAVA_17",
+    "mixins": [
+        "ShapedRecipeAccessor",
+        "ShapelessRecipeAccessor"
+    ],
+    "client": [
+    ],
+    "injectors": {
+        "defaultRequire": 1
+    }
+}
